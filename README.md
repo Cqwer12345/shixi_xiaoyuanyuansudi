@@ -51,26 +51,7 @@
 <img width="1452" height="525" alt="image" src="https://github.com/user-attachments/assets/9bb6c093-93eb-45ba-bd6a-6f7e9983e6b0" />
 
 
-Redis简单学习（Windows版本，Another客户端工具，Spring Data Redis常用方法），店铺营业状态设置（Swagger接口分组展示）
 
-Redis入门
-Redis数据类型
-Redis常用命令
-在Java中操作Redis
-店铺营业状态设置
-功能实现：营业状态设置
-
-效果图：
-
-<img width="1661" height="792" alt="image" src="https://github.com/user-attachments/assets/8767747e-a710-4ef9-a683-c3817d1912e4" />
-
-选择营业中，客户可在小程序端下单：
-
-<img width="343" height="701" alt="image" src="https://github.com/user-attachments/assets/f6e324d2-5fdb-4359-a715-5632e0c7b602" />
-
-选择打烊中，客户无法在小程序端下单：
-
-<img width="358" height="701" alt="image" src="https://github.com/user-attachments/assets/dbbcc24b-8779-4d4b-9f34-4b199789719c" />
 
 
 
