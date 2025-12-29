@@ -61,11 +61,15 @@ Redis常用命令
 功能实现：营业状态设置
 
 效果图：
+
 <img width="1661" height="792" alt="image" src="https://github.com/user-attachments/assets/8767747e-a710-4ef9-a683-c3817d1912e4" />
 
 选择营业中，客户可在小程序端下单：
+
 <img width="343" height="701" alt="image" src="https://github.com/user-attachments/assets/f6e324d2-5fdb-4359-a715-5632e0c7b602" />
+
 选择打烊中，客户无法在小程序端下单：
+
 <img width="358" height="701" alt="image" src="https://github.com/user-attachments/assets/dbbcc24b-8779-4d4b-9f34-4b199789719c" />
 
 
